@@ -12,7 +12,6 @@ public class LoginResultController {
     
     /**
      * 
-     * @param stage  the JavaFX Stage bound to this controller class
      * @param parent  the necessary parent JavaFX Stage of the stage bound to this controller class
      * @throws IOException
      */
